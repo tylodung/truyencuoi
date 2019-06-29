@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Thư Giản Giả Trí
-url: "https://iloves.club/"
+title: Truyện Cười
+url: "https://appstore4.info/"
 baseurl:
 google_analytics_key:
 newsletter_action:
@@ -18,7 +18,7 @@ author:
 social:
   name: Truyện Cười 
   links:
-    - https://iloves.club/
+    - https://appstore4.info/
 
 # -----
 # Build
