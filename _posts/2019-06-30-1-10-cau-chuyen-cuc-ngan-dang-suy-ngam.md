@@ -1,5 +1,5 @@
 ---
-date: 2018-05-18
+date: 2019-06-30
 title: 10 Câu Chuyện Cực Ngắn Đáng Suy Ngẫm
 categories:
   - Câu chuyện cuộc đời

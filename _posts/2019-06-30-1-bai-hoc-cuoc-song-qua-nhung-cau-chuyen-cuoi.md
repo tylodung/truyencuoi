@@ -1,9 +1,9 @@
 ---
-date: 2018-05-18
+date: 2019-06-30
 title: Mượn chó phải xếp hàng
 categories:
   - Câu chuyện cuộc đời
-featured_image: https://www.truyen-cuoi.com/uploads/2015/03/lam-hoa-hong-trai-tim-21.jpg
+featured_image: https://cdn.tuoitre.vn/thumb_w/586/2018/4802145300000578-0-image-a-31515666000927-1515690094515-1515690112591.png
 recipe:
   servings:  
   prep:  
