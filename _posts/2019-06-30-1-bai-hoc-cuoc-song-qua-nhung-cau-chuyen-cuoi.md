@@ -15,7 +15,7 @@ recipe:
 
 ---
 
-**Bài học 1:** Con trai hỏi mẹ: Mẹ ơi sao tóc mẹ có vài sợi bạc thế?
+**Bài học 1:** Con trai hỏi mẹ: Mẹ ơi sao tóc mẹ có vài sợi bạc thế?...
 
 Mẹ trả lời: Tại vì con đó, con thân yêu, vì mỗi lần con hư là tóc mẹ lại thêm sợi bạc.
 

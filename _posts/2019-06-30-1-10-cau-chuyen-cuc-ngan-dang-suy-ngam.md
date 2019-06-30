@@ -15,7 +15,7 @@ recipe:
 
 ---
 
-**Câu chuyện thứ nhất:**
+**Câu chuyện thứ nhất:**...
 
 Một cậu học trò lớp ba viết rằng cậu muốn trở thành một diễn viên hài trong bài tập làm văn của mình. Người bố phê: “Không có chí lớn”, còn thầy giáo nói: “Thầy chúc em mang tiếng cười cho toàn thế giới”.
 

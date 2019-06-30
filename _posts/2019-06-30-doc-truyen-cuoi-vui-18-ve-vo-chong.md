@@ -15,7 +15,7 @@ recipe:
 
 ---
 
-**Đọc truyện cười: Thực tế**
+**Đọc truyện cười: Thực tế**...
 
 Anh chàng nọ muốn tạo điều kiện cho cậu bạn thân của mình có được những trải nghiệm thực tế trước khi kết hôn nên nói chuyện với vợ:
 
